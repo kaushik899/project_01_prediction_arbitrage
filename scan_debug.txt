@@ -1,0 +1,4064 @@
+Connecting to Polymarket...
+
+Current markets retrieved: 100
+
+======================================================================
+Market 1/100
+======================================================================
+Xi Jinping out before 2027?
+
+YES token: 32338220190071351435772801779725302244575775216413325951443816017994629993401
+NO token: 25659310674993675562345759665114759892400026242514633218387667107987341231962
+
+YES
+Bid: 0.037
+Ask: 0.038
+
+NO
+Bid: 0.962
+Ask: 0.963
+
+YES available at best ask:
+Token quantity: 2558.19
+Dollar notional: 97.21122
+
+NO available at best ask:
+Token quantity: 1833.57
+Dollar notional: 1765.72791
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+1833.57
+Capital required for that quantity:
+1835.40357
+Gross profit at that quantity:
+-1.83357
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 2/100
+======================================================================
+Will Gavin Newsom win the 2028 Democratic presidential nomination?
+
+YES token: 54533043819946592547517511176940999955633860128497669742211153063842200957669
+NO token: 87854174148074652060467921081181402357467303721471806610111179101805869578687
+
+YES
+Bid: 0.153
+Ask: 0.157
+
+NO
+Bid: 0.843
+Ask: 0.847
+
+YES available at best ask:
+Token quantity: 614.02
+Dollar notional: 96.40114
+
+NO available at best ask:
+Token quantity: 1005.62
+Dollar notional: 851.76014
+
+Total YES + NO cost:
+1.004
+Gross profit:
+-0.004
+Gross profit %:
+-0.3984 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.004
+Estimated net profit %:
+-0.3984 %
+
+Maximum executable paired quantity:
+614.02
+Capital required for that quantity:
+616.47608
+Gross profit at that quantity:
+-2.45608
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 3/100
+======================================================================
+Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?
+
+YES token: 107064985435494333113391038470401719113272800530429703182710416066774068907304
+NO token: 65176072261324737856085688071627118509549293922582857186996392180609764586527
+
+YES
+Bid: 0.176
+Ask: 0.182
+
+NO
+Bid: 0.818
+Ask: 0.824
+
+YES available at best ask:
+Token quantity: 344.16
+Dollar notional: 62.63712
+
+NO available at best ask:
+Token quantity: 930.17
+Dollar notional: 766.46008
+
+Total YES + NO cost:
+1.006
+Gross profit:
+-0.006
+Gross profit %:
+-0.5964 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.006
+Estimated net profit %:
+-0.5964 %
+
+Maximum executable paired quantity:
+344.16
+Capital required for that quantity:
+346.22496
+Gross profit at that quantity:
+-2.06496
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 4/100
+======================================================================
+Will Pete Buttigieg win the 2028 Democratic presidential nomination?
+
+YES token: 91031279171981959197361710127213577102576826515163085396576756946418341946256
+NO token: 18494065527924073750217237765784380365430319396356251245973222791140100738948
+
+YES
+Bid: 0.051
+Ask: 0.052
+
+NO
+Bid: 0.948
+Ask: 0.949
+
+YES available at best ask:
+Token quantity: 2690.47
+Dollar notional: 139.90444
+
+NO available at best ask:
+Token quantity: 4222.76
+Dollar notional: 4007.39924
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+2690.47
+Capital required for that quantity:
+2693.16047
+Gross profit at that quantity:
+-2.69047
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 5/100
+======================================================================
+Will Josh Shapiro win the 2028 Democratic presidential nomination?
+
+YES token: 71169839497420596285841847514123589847893415750912355173877524195175834054354
+NO token: 55290827599553280245963175724940496753557722439999671239772487781170052583987
+
+YES
+Bid: 0.056
+Ask: 0.062
+
+NO
+Bid: 0.938
+Ask: 0.944
+
+YES available at best ask:
+Token quantity: 709.59
+Dollar notional: 43.99458
+
+NO available at best ask:
+Token quantity: 17.86
+Dollar notional: 16.85984
+
+Total YES + NO cost:
+1.006
+Gross profit:
+-0.006
+Gross profit %:
+-0.5964 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.006
+Estimated net profit %:
+-0.5964 %
+
+Maximum executable paired quantity:
+17.86
+Capital required for that quantity:
+17.96716
+Gross profit at that quantity:
+-0.10716
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 6/100
+======================================================================
+Will Wes Moore win the 2028 Democratic presidential nomination?
+
+YES token: 90227223115596293448966158151606153337847900483048338623540402385929720677904
+NO token: 105134691322323565615831879054043168027913414000042547943201361115853277749482
+
+YES
+Bid: 0.017
+Ask: 0.018
+
+NO
+Bid: 0.982
+Ask: 0.983
+
+YES available at best ask:
+Token quantity: 3575.67
+Dollar notional: 64.36206
+
+NO available at best ask:
+Token quantity: 330.56
+Dollar notional: 324.94048
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+330.56
+Capital required for that quantity:
+330.89056
+Gross profit at that quantity:
+-0.33056
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 7/100
+======================================================================
+Will Stephen A. Smith win the 2028 Democratic presidential nomination?
+
+YES token: 60590045489347122735554346200880179420435533609307820342798544098823516727807
+NO token: 76005700027045000587004110133818166617024719626220722682005164003117993034812
+
+YES
+Bid: 0.001
+Ask: 0.002
+
+NO
+Bid: 0.998
+Ask: 0.999
+
+YES available at best ask:
+Token quantity: 636554.91
+Dollar notional: 1273.10982
+
+NO available at best ask:
+Token quantity: 692868.81
+Dollar notional: 692175.94119
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+636554.91
+Capital required for that quantity:
+637191.46491
+Gross profit at that quantity:
+-636.55491
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 8/100
+======================================================================
+Will Kamala Harris win the 2028 Democratic presidential nomination?
+
+YES token: 38171024903091354977195167437673496224420673639143973968032407064172828043588
+NO token: 26930844951471612827925270830087046333229637930899178134435055616497220846773
+
+YES
+Bid: 0.096
+Ask: 0.097
+
+NO
+Bid: 0.903
+Ask: 0.904
+
+YES available at best ask:
+Token quantity: 19912.33
+Dollar notional: 1931.49601
+
+NO available at best ask:
+Token quantity: 4237.77
+Dollar notional: 3830.94408
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+4237.77
+Capital required for that quantity:
+4242.00777
+Gross profit at that quantity:
+-4.23777
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 9/100
+======================================================================
+Will Gretchen Whitmer win the 2028 Democratic presidential nomination?
+
+YES token: 57761428076807364758801249497410455358987881775226117256631754592198558850468
+NO token: 64300336035644500626313522990854070672468621241744347587785777226296613235598
+
+YES
+Bid: 0.004
+Ask: 0.005
+
+NO
+Bid: 0.995
+Ask: 0.996
+
+YES available at best ask:
+Token quantity: 175.74
+Dollar notional: 0.8787
+
+NO available at best ask:
+Token quantity: 94799.71
+Dollar notional: 94420.51116
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+175.74
+Capital required for that quantity:
+175.91574
+Gross profit at that quantity:
+-0.17574
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 10/100
+======================================================================
+Will Andy Beshear win the 2028 Democratic presidential nomination?
+
+YES token: 26468656392978559668331516709623917078428425933265692717836103090220693717685
+NO token: 26335362363448644358593284423242327477307616743233875606762153873424287882825
+
+YES
+Bid: 0.024
+Ask: 0.025
+
+NO
+Bid: 0.975
+Ask: 0.976
+
+YES available at best ask:
+Token quantity: 57195.98
+Dollar notional: 1429.8995
+
+NO available at best ask:
+Token quantity: 548.44
+Dollar notional: 535.27744
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+548.44
+Capital required for that quantity:
+548.98844
+Gross profit at that quantity:
+-0.54844
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 11/100
+======================================================================
+Will Jon Ossoff win the 2028 Democratic presidential nomination?
+
+YES token: 70071592420137476676935286377781779672157004436137616627487590484756055232944
+NO token: 107829893465244243112531790315844862173967342141753896250561816305880797209350
+
+YES
+Bid: 0.164
+Ask: 0.165
+
+NO
+Bid: 0.835
+Ask: 0.836
+
+YES available at best ask:
+Token quantity: 51.56
+Dollar notional: 8.5074
+
+NO available at best ask:
+Token quantity: 3345.25
+Dollar notional: 2796.629
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+51.56
+Capital required for that quantity:
+51.61156
+Gross profit at that quantity:
+-0.05156
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 12/100
+======================================================================
+Will Mark Cuban win the 2028 Democratic presidential nomination?
+
+YES token: 58378309871183461257693288827678410871907006920578755035402846056315798427503
+NO token: 55392527126713018429304496836617506663024188480522297953714346140749923557790
+
+YES
+Bid: 0.003
+Ask: 0.004
+
+NO
+Bid: 0.996
+Ask: 0.997
+
+YES available at best ask:
+Token quantity: 36283.14
+Dollar notional: 145.13256
+
+NO available at best ask:
+Token quantity: 6266.85
+Dollar notional: 6248.04945
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+6266.85
+Capital required for that quantity:
+6273.11685
+Gross profit at that quantity:
+-6.26685
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 13/100
+======================================================================
+Will J.B. Pritzker win the 2028 Democratic presidential nomination?
+
+YES token: 103988345069738240821107916249290759786442703283901164377120414690701074137717
+NO token: 108650988487983371520585351370999192979899647080710024226285750050382033453124
+
+YES
+Bid: 0.012
+Ask: 0.013
+
+NO
+Bid: 0.987
+Ask: 0.988
+
+YES available at best ask:
+Token quantity: 306.76
+Dollar notional: 3.98788
+
+NO available at best ask:
+Token quantity: 5559.61
+Dollar notional: 5492.89468
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+306.76
+Capital required for that quantity:
+307.06676
+Gross profit at that quantity:
+-0.30676
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 14/100
+======================================================================
+Will Raphael Warnock win the 2028 Democratic presidential nomination?
+
+YES token: 52310257194926233099477326083312959938983447523839326865869372741334281264830
+NO token: 88403451835230950222119400360490338078378790763472355557584611572247419676051
+
+YES
+Bid: 0.005
+Ask: 0.006
+
+NO
+Bid: 0.994
+Ask: 0.995
+
+YES available at best ask:
+Token quantity: 1173909.54
+Dollar notional: 7043.45724
+
+NO available at best ask:
+Token quantity: 89573.23
+Dollar notional: 89125.36385
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+89573.23
+Capital required for that quantity:
+89662.80323
+Gross profit at that quantity:
+-89.57323
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 15/100
+======================================================================
+Will Cory Booker win the 2028 Democratic presidential nomination?
+
+YES token: 50887272939612765629559172143901565817521391945540156085421963433918821328137
+NO token: 29006371059590547574472177233842141554614007974283936149779962779213443973844
+
+YES
+Bid: 0.005
+Ask: 0.006
+
+NO
+Bid: 0.994
+Ask: 0.995
+
+YES available at best ask:
+Token quantity: 589.2
+Dollar notional: 3.5352
+
+NO available at best ask:
+Token quantity: 37544.13
+Dollar notional: 37356.40935
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+589.2
+Capital required for that quantity:
+589.7892
+Gross profit at that quantity:
+-0.5892
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 16/100
+======================================================================
+Will Tim Walz win the 2028 Democratic presidential nomination?
+
+YES token: 104464678880204778606895232389511543522030897731392516718349574106843434770446
+NO token: 90935594925886073322524509252821043048115343298080885997215308777385571383769
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 792663.79
+Dollar notional: 792.66379
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 17/100
+======================================================================
+Will Michelle Obama win the 2028 Democratic presidential nomination?
+
+YES token: 83723134981785004242996949681785273460678873813693556756054904164484296299719
+NO token: 107146110974011455665373243296921398136854344089489911087344946921091914123046
+
+YES
+Bid: 0.002
+Ask: 0.003
+
+NO
+Bid: 0.997
+Ask: 0.998
+
+YES available at best ask:
+Token quantity: 84336.57
+Dollar notional: 253.00971
+
+NO available at best ask:
+Token quantity: 39993.29
+Dollar notional: 39913.30342
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+39993.29
+Capital required for that quantity:
+40033.28329
+Gross profit at that quantity:
+-39.99329
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 18/100
+======================================================================
+Will Mark Kelly win the 2028 Democratic presidential nomination?
+
+YES token: 92325249719485031139867422012514654102580961954747753469470405147070256604118
+NO token: 5116999494213083595175041146469973274436003044730013359502912125889113751080
+
+YES
+Bid: 0.03
+Ask: 0.031
+
+NO
+Bid: 0.969
+Ask: 0.97
+
+YES available at best ask:
+Token quantity: 14704.65
+Dollar notional: 455.84415
+
+NO available at best ask:
+Token quantity: 178.28
+Dollar notional: 172.9316
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+178.28
+Capital required for that quantity:
+178.45828
+Gross profit at that quantity:
+-0.17828
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 19/100
+======================================================================
+Will Rahm Emanuel win the 2028 Democratic presidential nomination?
+
+YES token: 10521981432803570450946212503203364998108630328528216082760514453664705157397
+NO token: 91949042216127305292438280992722171735754548787382833799906976841509942727662
+
+YES
+Bid: 0.018
+Ask: 0.019
+
+NO
+Bid: 0.981
+Ask: 0.982
+
+YES available at best ask:
+Token quantity: 1674.97
+Dollar notional: 31.82443
+
+NO available at best ask:
+Token quantity: 1991.49
+Dollar notional: 1955.64318
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+1674.97
+Capital required for that quantity:
+1676.64497
+Gross profit at that quantity:
+-1.67497
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 20/100
+======================================================================
+Will Gina Raimondo win the 2028 Democratic presidential nomination?
+
+YES token: 35165603539035270209469650915267170915291414186795231160733227083640059691764
+NO token: 82254794773423437491598574581796732934760602553828664932786984448280136473130
+
+YES
+Bid: 0.001
+Ask: 0.002
+
+NO
+Bid: 0.998
+Ask: 0.999
+
+YES available at best ask:
+Token quantity: 124175.78
+Dollar notional: 248.35156
+
+NO available at best ask:
+Token quantity: 672885.86
+Dollar notional: 672212.97414
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+124175.78
+Capital required for that quantity:
+124299.95578
+Gross profit at that quantity:
+-124.17578
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 21/100
+======================================================================
+Will Zohran Mamdani win the 2028 Democratic presidential nomination?
+
+YES token: 19323997520040734631220675039559156784534982703459512097490198935565229528445
+NO token: 111309365336519526711604102518316708823622751854213281307404397618571408959194
+
+YES
+Bid: 0.001
+Ask: 0.002
+
+NO
+Bid: 0.998
+Ask: 0.999
+
+YES available at best ask:
+Token quantity: 89169.88
+Dollar notional: 178.33976
+
+NO available at best ask:
+Token quantity: 552008.64
+Dollar notional: 551456.63136
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+89169.88
+Capital required for that quantity:
+89259.04988
+Gross profit at that quantity:
+-89.16988
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 22/100
+======================================================================
+Will Roy Cooper win the 2028 Democratic presidential nomination?
+
+YES token: 30732552320006664177902085971957467957450485111214036633872573588757974348601
+NO token: 55053374667733007627913689484290555932799177921000957543346276204775142445823
+
+YES
+Bid: 0.001
+Ask: 0.002
+
+NO
+Bid: 0.998
+Ask: 0.999
+
+YES available at best ask:
+Token quantity: 134650.74
+Dollar notional: 269.30148
+
+NO available at best ask:
+Token quantity: 138982.42
+Dollar notional: 138843.43758
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+134650.74
+Capital required for that quantity:
+134785.39074
+Gross profit at that quantity:
+-134.65074
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 23/100
+======================================================================
+Will John Fetterman win the 2028 Democratic presidential nomination?
+
+YES token: 71289010523270989807437428651002770360280908813019627976988032260868574107425
+NO token: 68686505966910102763700888296813272792512562699674656659355148432859571994559
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 1053473.32
+Dollar notional: 1053.47332
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 24/100
+======================================================================
+Will Jared Polis win the 2028 Democratic presidential nomination?
+
+YES token: 42119164854283656238382173699154739480090965550328051492328192273011556335098
+NO token: 39150381508679235943386404690610035044747196600759141560840372170757042543675
+
+YES
+Bid: 0.001
+Ask: 0.002
+
+NO
+Bid: 0.998
+Ask: 0.999
+
+YES available at best ask:
+Token quantity: 214339.91
+Dollar notional: 428.67982
+
+NO available at best ask:
+Token quantity: 58852.27
+Dollar notional: 58793.41773
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+58852.27
+Capital required for that quantity:
+58911.12227
+Gross profit at that quantity:
+-58.85227
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 25/100
+======================================================================
+Will Jon Stewart win the 2028 Democratic presidential nomination?
+
+YES token: 58343456405874365460518182619380252930558598368174305791768670198253267891911
+NO token: 84566561349071752664514432513198569980219178901068420341175150225620958953893
+
+YES
+Bid: 0.003
+Ask: 0.004
+
+NO
+Bid: 0.996
+Ask: 0.997
+
+YES available at best ask:
+Token quantity: 256.44
+Dollar notional: 1.02576
+
+NO available at best ask:
+Token quantity: 1226.22
+Dollar notional: 1222.54134
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+256.44
+Capital required for that quantity:
+256.69644
+Gross profit at that quantity:
+-0.25644
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 26/100
+======================================================================
+Will Barack Obama win the 2028 Democratic presidential nomination?
+
+YES token: 88927218779847397120407909832537568114340511586397698395193736044476021744522
+NO token: 93993883668914241189795812807312922412111034935516092303580333564217329905759
+
+YES
+Bid: 0.001
+Ask: 0.002
+
+NO
+Bid: 0.998
+Ask: 0.999
+
+YES available at best ask:
+Token quantity: 138015.21
+Dollar notional: 276.03042
+
+NO available at best ask:
+Token quantity: 114824.58
+Dollar notional: 114709.75542
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+114824.58
+Capital required for that quantity:
+114939.40458
+Gross profit at that quantity:
+-114.82458
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 27/100
+======================================================================
+Will Hillary Clinton win the 2028 Democratic presidential nomination?
+
+YES token: 6349038249650226718426900942104344803413105653564595362433352811865798195800
+NO token: 57931882677606943294773135604094039468334392354204920135953322654005083822055
+
+YES
+Bid: 0.001
+Ask: 0.002
+
+NO
+Bid: 0.998
+Ask: 0.999
+
+YES available at best ask:
+Token quantity: 74.75
+Dollar notional: 0.1495
+
+NO available at best ask:
+Token quantity: 96120.53
+Dollar notional: 96024.40947
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+74.75
+Capital required for that quantity:
+74.82475
+Gross profit at that quantity:
+-0.07475
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 28/100
+======================================================================
+Will Liz Cheney win the 2028 Democratic presidential nomination?
+
+YES token: 41340056280794024415573839406074658402877379128871144681466050648033201160259
+NO token: 63802361760137863513735993346883582181207639895442036953936089060482564982249
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 476840.55
+Dollar notional: 476.84055
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 29/100
+======================================================================
+Will Bernie Sanders win the 2028 Democratic presidential nomination?
+
+YES token: 113510300123120868861281132282742729065975487298059944817273881893086209196585
+NO token: 3444964147133304300560138317203877470064591148213906708394693248804691192318
+
+YES
+Bid: 0.004
+Ask: 0.005
+
+NO
+Bid: 0.995
+Ask: 0.996
+
+YES available at best ask:
+Token quantity: 9580.95
+Dollar notional: 47.90475
+
+NO available at best ask:
+Token quantity: 2256.74
+Dollar notional: 2247.71304
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+2256.74
+Capital required for that quantity:
+2258.99674
+Gross profit at that quantity:
+-2.25674
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 30/100
+======================================================================
+Will Phil Murphy win the 2028 Democratic presidential nomination?
+
+YES token: 81633484456710374417231462107666791993850637546563366185897100962157481970040
+NO token: 114507466536734360808195115190160357255467689128176113085692265197019898971527
+
+YES
+Bid: 0.001
+Ask: 0.002
+
+NO
+Bid: 0.998
+Ask: 0.999
+
+YES available at best ask:
+Token quantity: 302770.11
+Dollar notional: 605.54022
+
+NO available at best ask:
+Token quantity: 45870.04
+Dollar notional: 45824.16996
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+45870.04
+Capital required for that quantity:
+45915.91004
+Gross profit at that quantity:
+-45.87004
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 31/100
+======================================================================
+Will LeBron James win the 2028 Democratic presidential nomination?
+
+YES token: 100561779829530520068956424581003844045516012444425572625523659025114550346085
+NO token: 46254744034025107660239982269249567113656697231872036621777316158933638064598
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 258495.76
+Dollar notional: 258.49576
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 32/100
+======================================================================
+Will Hunter Biden win the 2028 Democratic presidential nomination?
+
+YES token: 11343337042526652606304508556838778144915122118685013460142819817079620240439
+NO token: 19117858613830240204442128472263675815111662346578092643025820800380629933012
+
+YES
+Bid: 0.004
+Ask: 0.006
+
+NO
+Bid: 0.994
+Ask: 0.996
+
+YES available at best ask:
+Token quantity: 40753.16
+Dollar notional: 244.51896
+
+NO available at best ask:
+Token quantity: 14812.44
+Dollar notional: 14753.19024
+
+Total YES + NO cost:
+1.002
+Gross profit:
+-0.002
+Gross profit %:
+-0.1996 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.002
+Estimated net profit %:
+-0.1996 %
+
+Maximum executable paired quantity:
+14812.44
+Capital required for that quantity:
+14842.06488
+Gross profit at that quantity:
+-29.62488
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 33/100
+======================================================================
+Will George Clooney win the 2028 Democratic presidential nomination?
+
+YES token: 48218088132821386640274752564592889805082274744128282833036735027928992155024
+NO token: 5645396948464928632054207670692862818297222862819597089648758232622731040046
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 463322.17
+Dollar notional: 463.32217
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 34/100
+======================================================================
+Will Chelsea Clinton win the 2028 Democratic presidential nomination?
+
+YES token: 46211769122513729244602558513001215391004042100934296321661285791281233261657
+NO token: 76057920052421891902791411567177996435483774677774664174053982044923692373687
+
+YES
+Bid: 0.006
+Ask: 0.007
+
+NO
+Bid: 0.993
+Ask: 0.994
+
+YES available at best ask:
+Token quantity: 10.2
+Dollar notional: 0.0714
+
+NO available at best ask:
+Token quantity: 307.29
+Dollar notional: 305.44626
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+10.2
+Capital required for that quantity:
+10.2102
+Gross profit at that quantity:
+-0.0102
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 35/100
+======================================================================
+Will MrBeast win the 2028 Democratic presidential nomination?
+
+YES token: 51035537065442638321333063915918274102446051033989435618245745345113522914516
+NO token: 93910251767329056141706007839545721784238465183449597462421810827705938093892
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 101613.3
+Dollar notional: 101.6133
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 36/100
+======================================================================
+Will Dwayne 'The Rock' Johnson win the 2028 Democratic presidential nomination?
+
+YES token: 40963724357262746498642320898188195118391211877976821531149510360187173789737
+NO token: 14959910401705469574520698331840889689202579612030624016640567510369602599866
+
+YES
+Bid: 0.011
+Ask: 0.012
+
+NO
+Bid: 0.988
+Ask: 0.989
+
+YES available at best ask:
+Token quantity: 18935.79
+Dollar notional: 227.22948
+
+NO available at best ask:
+Token quantity: 725.04
+Dollar notional: 717.06456
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+725.04
+Capital required for that quantity:
+725.76504
+Gross profit at that quantity:
+-0.72504
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 37/100
+======================================================================
+Will Oprah Winfrey win the 2028 Democratic presidential nomination?
+
+YES token: 2213957649161627793381994368131485505647723208738124952452819345058597751695
+NO token: 44046525152074436753629616217525652949736205933417533647338274649282385796755
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 216808.69
+Dollar notional: 216.80869
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 38/100
+======================================================================
+Will Andrew Yang win the 2028 Democratic presidential nomination?
+
+YES token: 102504892414163237174864879683522880588750452841477290216845150938663289742135
+NO token: 21234886083000978203440582985665409733123024063268807484684316771005736994028
+
+YES
+Bid: 0.001
+Ask: 0.002
+
+NO
+Bid: 0.998
+Ask: 0.999
+
+YES available at best ask:
+Token quantity: 830058.7
+Dollar notional: 1660.1174
+
+NO available at best ask:
+Token quantity: 485482.69
+Dollar notional: 484997.20731
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+485482.69
+Capital required for that quantity:
+485968.17269
+Gross profit at that quantity:
+-485.48269
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 39/100
+======================================================================
+Will Beto O’Rourke win the 2028 Democratic presidential nomination?
+
+YES token: 37126434962149084556522721025504254258386171468763869879755961635390358765833
+NO token: 2426274669138238576933962603416907393958833898063513872892433203206006096668
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 941615.31
+Dollar notional: 941.61531
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 40/100
+======================================================================
+Will Kim Kardashian win the 2028 Democratic presidential nomination?
+
+YES token: 55087250670040717711131370018408221134109122974378698780636020561523521220754
+NO token: 108145967398435925971960442906832714254932011684365058146885679351681137451999
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 442504.04
+Dollar notional: 442.50404
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 41/100
+======================================================================
+Will Chris Murphy win the 2028 Democratic presidential nomination?
+
+YES token: 8815924480259634499011776432080696931704057619336093802050596292915996723758
+NO token: 45099054006923138281311463758770234951153596952213440096254242321807308634603
+
+YES
+Bid: 0.004
+Ask: 0.005
+
+NO
+Bid: 0.995
+Ask: 0.996
+
+YES available at best ask:
+Token quantity: 3783.03
+Dollar notional: 18.91515
+
+NO available at best ask:
+Token quantity: 35836.26
+Dollar notional: 35692.91496
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+3783.03
+Capital required for that quantity:
+3786.81303
+Gross profit at that quantity:
+-3.78303
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 42/100
+======================================================================
+Will Jasmine Crockett win the 2028 Democratic presidential nomination?
+
+YES token: 22103094389913052942362639589409218272323168761614999702665821259175535456835
+NO token: 10893367019711826592833821276710094799225035200719824531380610476790390190688
+
+YES
+Bid: 0.001
+Ask: 0.002
+
+NO
+Bid: 0.998
+Ask: 0.999
+
+YES available at best ask:
+Token quantity: 7198.4
+Dollar notional: 14.3968
+
+NO available at best ask:
+Token quantity: 101900.23
+Dollar notional: 101798.32977
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+7198.4
+Capital required for that quantity:
+7205.5984
+Gross profit at that quantity:
+-7.1984
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 43/100
+======================================================================
+Will Ruben Gallego win the 2028 Democratic presidential nomination?
+
+YES token: 94658518227479141344875476648819337938746150529318297759951212169676959854478
+NO token: 89549550119611798541187132573193884477265258658615163602217456913355320927577
+
+YES
+Bid: 0.001
+Ask: 0.002
+
+NO
+Bid: 0.998
+Ask: 0.999
+
+YES available at best ask:
+Token quantity: 86678.35
+Dollar notional: 173.3567
+
+NO available at best ask:
+Token quantity: 162109.87
+Dollar notional: 161947.76013
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+86678.35
+Capital required for that quantity:
+86765.02835
+Gross profit at that quantity:
+-86.67835
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 44/100
+======================================================================
+Will Ro Khanna win the 2028 Democratic presidential nomination?
+
+YES token: 20374050108659687356429749447884880983779889840007423115803042125707701269498
+NO token: 2610336024939503976910443133965525155112118948066646227040491461288298872236
+
+YES
+Bid: 0.013
+Ask: 0.014
+
+NO
+Bid: 0.986
+Ask: 0.987
+
+YES available at best ask:
+Token quantity: 6273.52
+Dollar notional: 87.82928
+
+NO available at best ask:
+Token quantity: 3965.66
+Dollar notional: 3914.10642
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+3965.66
+Capital required for that quantity:
+3969.62566
+Gross profit at that quantity:
+-3.96566
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 45/100
+======================================================================
+Will James Talarico win the 2028 Democratic presidential nomination?
+
+YES token: 52535923606561722941567320365820395300598958985353103429657683100920373025261
+NO token: 20643805904661385280242837899001038341346631607217619709766724611396929658707
+
+YES
+Bid: 0.024
+Ask: 0.025
+
+NO
+Bid: 0.975
+Ask: 0.976
+
+YES available at best ask:
+Token quantity: 9641.0
+Dollar notional: 241.025
+
+NO available at best ask:
+Token quantity: 350.75
+Dollar notional: 342.332
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+350.75
+Capital required for that quantity:
+351.10075
+Gross profit at that quantity:
+-0.35075
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 46/100
+======================================================================
+Will Graham Platner win the 2028 Democratic presidential nomination?
+
+YES token: 54840717483866263964304723492966182979723045222316848733193673523986124053075
+NO token: 2830559553603011758209706316487895188007644895898957662939818867834634821212
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 855871.63
+Dollar notional: 855.87163
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 47/100
+======================================================================
+Will Abigail Spanberger win the 2028 Democratic presidential nomination?
+
+YES token: 67834126955354466786049932246962827069514258320708123726234642047236874537300
+NO token: 85842730802801029317331291122638780955014362480310249655739704629273608465884
+
+YES
+Bid: 0.001
+Ask: 0.002
+
+NO
+Bid: 0.998
+Ask: 0.999
+
+YES available at best ask:
+Token quantity: 56424.76
+Dollar notional: 112.84952
+
+NO available at best ask:
+Token quantity: 1231956.72
+Dollar notional: 1230724.76328
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+56424.76
+Capital required for that quantity:
+56481.18476
+Gross profit at that quantity:
+-56.42476
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 48/100
+======================================================================
+Will Hakeem Jeffries win the 2028 Democratic presidential nomination?
+
+YES token: 23940655822937666554179928631365405234554137716172612284986318717257054413669
+NO token: 74558297484750387958365610940184220316219182006445006209048673137036909262424
+
+YES
+Bid: 0.001
+Ask: 0.002
+
+NO
+Bid: 0.998
+Ask: 0.999
+
+YES available at best ask:
+Token quantity: 353355.67
+Dollar notional: 706.71134
+
+NO available at best ask:
+Token quantity: 685130.74
+Dollar notional: 684445.60926
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+353355.67
+Capital required for that quantity:
+353709.02567
+Gross profit at that quantity:
+-353.35567
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 49/100
+======================================================================
+Will Elissa Slotkin win the 2028 Democratic presidential nomination?
+
+YES token: 48455736546094517370011063312529885328905072240106316551156607253162886762655
+NO token: 21910945789202551310737182019481519202352824012676720876277298283641159588352
+
+YES
+Bid: 0.001
+Ask: 0.002
+
+NO
+Bid: 0.998
+Ask: 0.999
+
+YES available at best ask:
+Token quantity: 214318.6
+Dollar notional: 428.6372
+
+NO available at best ask:
+Token quantity: 1615419.32
+Dollar notional: 1613803.90068
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+214318.6
+Capital required for that quantity:
+214532.9186
+Gross profit at that quantity:
+-214.3186
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 50/100
+======================================================================
+Will Adam Schiff win the 2028 Democratic presidential nomination?
+
+YES token: 62721325588078416441678692954905586544000289214339415151384834742710012983810
+NO token: 4587616472715295492925849115245921456579283399977029619430824277410859697
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 1218554.63
+Dollar notional: 1218.55463
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 51/100
+======================================================================
+Will Josh Stein win the 2028 Democratic presidential nomination?
+
+YES token: 88892629978057552473594496509394432528313837466696628191322608851106929962536
+NO token: 86408082986810982428934766746057237103501895775284376283076301431054177694153
+
+YES
+Bid: 0.001
+Ask: 0.002
+
+NO
+Bid: 0.998
+Ask: 0.999
+
+YES available at best ask:
+Token quantity: 1778355.99
+Dollar notional: 3556.71198
+
+NO available at best ask:
+Token quantity: 932068.44
+Dollar notional: 931136.37156
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+932068.44
+Capital required for that quantity:
+933000.50844
+Gross profit at that quantity:
+-932.06844
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 52/100
+======================================================================
+Will Alex Padilla win the 2028 Democratic presidential nomination?
+
+YES token: 70419914298819599884598619432566620509485573636622456902301761941886565776666
+NO token: 17607158498290934698430813319324932561291042726975634499432565780430086473903
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 547883.15
+Dollar notional: 547.88315
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 53/100
+======================================================================
+Putin out as President of Russia by December 31, 2026?
+
+YES token: 350977769852917329387037893294763093471844346281449484439085576212613048126
+NO token: 87073899845581463485186346288398658568334162612963837182986759797304993556208
+
+YES
+Bid: 0.04
+Ask: 0.05
+
+NO
+Bid: 0.95
+Ask: 0.96
+
+YES available at best ask:
+Token quantity: 97616.51
+Dollar notional: 4880.8255
+
+NO available at best ask:
+Token quantity: 15365.53
+Dollar notional: 14750.9088
+
+Total YES + NO cost:
+1.01
+Gross profit:
+-0.01
+Gross profit %:
+-0.9901 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.01
+Estimated net profit %:
+-0.9901 %
+
+Maximum executable paired quantity:
+15365.53
+Capital required for that quantity:
+15519.1853
+Gross profit at that quantity:
+-153.6553
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 54/100
+======================================================================
+Will JD Vance win the 2028 US Presidential Election?
+
+YES token: 16040015440196279900485035793550429453516625694844857319147506590755961451627
+NO token: 94476829201604408463453426454480212459887267917122244941405244686637914508323
+
+YES
+Bid: 0.207
+Ask: 0.208
+
+NO
+Bid: 0.792
+Ask: 0.793
+
+YES available at best ask:
+Token quantity: 3873.39
+Dollar notional: 805.66512
+
+NO available at best ask:
+Token quantity: 999.92
+Dollar notional: 792.93656
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+999.92
+Capital required for that quantity:
+1000.91992
+Gross profit at that quantity:
+-0.99992
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 55/100
+======================================================================
+Will Gavin Newsom win the 2028 US Presidential Election?
+
+YES token: 98250445447699368679516529207365255018790721464590833209064266254238063117329
+NO token: 18823838997443878656879952590502524526556504037944392973476854588563571859850
+
+YES
+Bid: 0.079
+Ask: 0.082
+
+NO
+Bid: 0.918
+Ask: 0.921
+
+YES available at best ask:
+Token quantity: 438.35
+Dollar notional: 35.9447
+
+NO available at best ask:
+Token quantity: 1925.27
+Dollar notional: 1773.17367
+
+Total YES + NO cost:
+1.003
+Gross profit:
+-0.003
+Gross profit %:
+-0.2991 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.003
+Estimated net profit %:
+-0.2991 %
+
+Maximum executable paired quantity:
+438.35
+Capital required for that quantity:
+439.66505
+Gross profit at that quantity:
+-1.31505
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 56/100
+======================================================================
+Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?
+
+YES token: 8113830512143065501177519557124858581375945005490796772950589720955457782465
+NO token: 11493926619286817179231142642565394485790380952577225820901334479399429951651
+
+YES
+Bid: 0.13
+Ask: 0.131
+
+NO
+Bid: 0.869
+Ask: 0.87
+
+YES available at best ask:
+Token quantity: 636.34
+Dollar notional: 83.36054
+
+NO available at best ask:
+Token quantity: 16383.59
+Dollar notional: 14253.7233
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+636.34
+Capital required for that quantity:
+636.97634
+Gross profit at that quantity:
+-0.63634
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 57/100
+======================================================================
+Will Pete Buttigieg win the 2028 US Presidential Election?
+
+YES token: 35629456194498013232473191985311930903993567273832459837879398120893197410860
+NO token: 26087406687932108531005204502244492184534000122992461059156880611150953145122
+
+YES
+Bid: 0.026
+Ask: 0.027
+
+NO
+Bid: 0.973
+Ask: 0.974
+
+YES available at best ask:
+Token quantity: 19745.11
+Dollar notional: 533.11797
+
+NO available at best ask:
+Token quantity: 7493.9
+Dollar notional: 7299.0586
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+7493.9
+Capital required for that quantity:
+7501.3939
+Gross profit at that quantity:
+-7.4939
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 58/100
+======================================================================
+Will Josh Shapiro win the 2028 US Presidential Election?
+
+YES token: 1420113190297259908358916251277696183671602680024474979931472444792502392139
+NO token: 9195312844128905514645503106857912558078141569888031031723687687489317147622
+
+YES
+Bid: 0.03
+Ask: 0.031
+
+NO
+Bid: 0.969
+Ask: 0.97
+
+YES available at best ask:
+Token quantity: 7738.13
+Dollar notional: 239.88203
+
+NO available at best ask:
+Token quantity: 8173.17
+Dollar notional: 7927.9749
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+7738.13
+Capital required for that quantity:
+7745.86813
+Gross profit at that quantity:
+-7.73813
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 59/100
+======================================================================
+Will Marco Rubio win the 2028 US Presidential Election?
+
+YES token: 11171618905857319805355893398009978356002287408842633593535559412449299952250
+NO token: 65892530750232246342273648992064742042382898919201083513241874070914353628268
+
+YES
+Bid: 0.088
+Ask: 0.089
+
+NO
+Bid: 0.911
+Ask: 0.912
+
+YES available at best ask:
+Token quantity: 1068.96
+Dollar notional: 95.13744
+
+NO available at best ask:
+Token quantity: 1662.7
+Dollar notional: 1516.3824
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+1068.96
+Capital required for that quantity:
+1070.02896
+Gross profit at that quantity:
+-1.06896
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 60/100
+======================================================================
+Will Wes Moore win the 2028 US Presidential Election?
+
+YES token: 35272507273162958827997790327967872292415567859334925862043618606081750011897
+NO token: 374661216370333715221919731169956915917040066803205972387948453758235235593
+
+YES
+Bid: 0.008
+Ask: 0.009
+
+NO
+Bid: 0.991
+Ask: 0.992
+
+YES available at best ask:
+Token quantity: 22284.4
+Dollar notional: 200.5596
+
+NO available at best ask:
+Token quantity: 48457.51
+Dollar notional: 48069.84992
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+22284.4
+Capital required for that quantity:
+22306.6844
+Gross profit at that quantity:
+-22.2844
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 61/100
+======================================================================
+Will Gretchen Whitmer win the 2028 US Presidential Election?
+
+YES token: 4999047257294547885970323631312419427544062131054733229841947946130772277335
+NO token: 102084577517225131375286042838758381959278092930102485541091152099183604495224
+
+YES
+Bid: 0.003
+Ask: 0.004
+
+NO
+Bid: 0.996
+Ask: 0.997
+
+YES available at best ask:
+Token quantity: 30889.81
+Dollar notional: 123.55924
+
+NO available at best ask:
+Token quantity: 32552.63
+Dollar notional: 32454.97211
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+30889.81
+Capital required for that quantity:
+30920.69981
+Gross profit at that quantity:
+-30.88981
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 62/100
+======================================================================
+Will Andy Beshear win the 2028 US Presidential Election?
+
+YES token: 50507496430692162923857760920722624157737138256097150616293040054748564876552
+NO token: 53112547591746110422238703365888013497196468199611167129486770819598374380742
+
+YES
+Bid: 0.01
+Ask: 0.011
+
+NO
+Bid: 0.989
+Ask: 0.99
+
+YES available at best ask:
+Token quantity: 26930.18
+Dollar notional: 296.23198
+
+NO available at best ask:
+Token quantity: 7638.58
+Dollar notional: 7562.1942
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+7638.58
+Capital required for that quantity:
+7646.21858
+Gross profit at that quantity:
+-7.63858
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 63/100
+======================================================================
+Will Glenn Youngkin win the 2028 US Presidential Election?
+
+YES token: 631059815958854406224163480574507434200946764542129005247984171366597476420
+NO token: 100418331065194201410948024347944500798513421135064468615649525110872253639397
+
+YES
+Bid: 0.001
+Ask: 0.002
+
+NO
+Bid: 0.998
+Ask: 0.999
+
+YES available at best ask:
+Token quantity: 24683.1
+Dollar notional: 49.3662
+
+NO available at best ask:
+Token quantity: 720948.89
+Dollar notional: 720227.94111
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+24683.1
+Capital required for that quantity:
+24707.7831
+Gross profit at that quantity:
+-24.6831
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 64/100
+======================================================================
+Will Kamala Harris win the 2028 US Presidential Election?
+
+YES token: 70663352401606372246362604193214664065595751757222752105245221905399175050480
+NO token: 4988819538339626436114997160558538168652916536529198363646261454228218983102
+
+YES
+Bid: 0.046
+Ask: 0.047
+
+NO
+Bid: 0.953
+Ask: 0.954
+
+YES available at best ask:
+Token quantity: 26761.34
+Dollar notional: 1257.78298
+
+NO available at best ask:
+Token quantity: 1353.42
+Dollar notional: 1291.16268
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+1353.42
+Capital required for that quantity:
+1354.77342
+Gross profit at that quantity:
+-1.35342
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 65/100
+======================================================================
+Will Stephen Smith win the 2028 US Presidential Election?
+
+YES token: 105367778020161609482094090847463497982204321259381518614669619753184648647559
+NO token: 12867420029045504056332323771270227403424313645832702673618751920867223902054
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 380276.02
+Dollar notional: 380.27602
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 66/100
+======================================================================
+Will JB Pritzker win the 2028 US Presidential Election?
+
+YES token: 70948731404464821824516595498024506131170394300814446118501620719416471444076
+NO token: 111825297267676135304812085666512747626812691749338692567733264184356420470119
+
+YES
+Bid: 0.004
+Ask: 0.005
+
+NO
+Bid: 0.995
+Ask: 0.996
+
+YES available at best ask:
+Token quantity: 41235.59
+Dollar notional: 206.17795
+
+NO available at best ask:
+Token quantity: 129250.75
+Dollar notional: 128733.747
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+41235.59
+Capital required for that quantity:
+41276.82559
+Gross profit at that quantity:
+-41.23559
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 67/100
+======================================================================
+Will Tulsi Gabbard win the 2028 US Presidential Election?
+
+YES token: 97633418272282627828834872960145259034624388719803091466146359304286851612172
+NO token: 17854429586516792397214557963923647011517685971868312042416963526864862523185
+
+YES
+Bid: 0.001
+Ask: 0.002
+
+NO
+Bid: 0.998
+Ask: 0.999
+
+YES available at best ask:
+Token quantity: 719177.0
+Dollar notional: 1438.354
+
+NO available at best ask:
+Token quantity: 54282.25
+Dollar notional: 54227.96775
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+54282.25
+Capital required for that quantity:
+54336.53225
+Gross profit at that quantity:
+-54.28225
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 68/100
+======================================================================
+Will Donald Trump win the 2028 US Presidential Election?
+
+YES token: 11807691644868166983390207408868795383945915035851758101409310535538572683733
+NO token: 72656506786460378316387284276713856836841708169262528054985577978493419440428
+
+YES
+Bid: 0.011
+Ask: 0.015
+
+NO
+Bid: 0.985
+Ask: 0.989
+
+YES available at best ask:
+Token quantity: 1047.0
+Dollar notional: 15.705
+
+NO available at best ask:
+Token quantity: 31.34
+Dollar notional: 30.99526
+
+Total YES + NO cost:
+1.004
+Gross profit:
+-0.004
+Gross profit %:
+-0.3984 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.004
+Estimated net profit %:
+-0.3984 %
+
+Maximum executable paired quantity:
+31.34
+Capital required for that quantity:
+31.46536
+Gross profit at that quantity:
+-0.12536
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 69/100
+======================================================================
+Will Donald Trump Jr. win the 2028 US Presidential Election?
+
+YES token: 77660944053451874285291959901958937238149180369572698706675030657716494119346
+NO token: 52761630651452310319295064365704431564140478140269624735570317771849185169635
+
+YES
+Bid: 0.004
+Ask: 0.005
+
+NO
+Bid: 0.995
+Ask: 0.996
+
+YES available at best ask:
+Token quantity: 12406.95
+Dollar notional: 62.03475
+
+NO available at best ask:
+Token quantity: 61525.85
+Dollar notional: 61279.7466
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+12406.95
+Capital required for that quantity:
+12419.35695
+Gross profit at that quantity:
+-12.40695
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 70/100
+======================================================================
+Will Nikki Haley win the 2028 US Presidential Election?
+
+YES token: 14253956839582698877884742930225331487593177635330318923853046874994118249367
+NO token: 84386913213192310444216977895083273572419886997719576824320630372812149173320
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 1636819.76
+Dollar notional: 1636.81976
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 71/100
+======================================================================
+Will Ron DeSantis win the 2028 US Presidential Election?
+
+YES token: 104480514270625615787868282411330496385404675495672110015326625654626015018993
+NO token: 65724430065358897810064400118831287249960059855415477063660293398018349529272
+
+YES
+Bid: 0.016
+Ask: 0.02
+
+NO
+Bid: 0.98
+Ask: 0.984
+
+YES available at best ask:
+Token quantity: 572.65
+Dollar notional: 11.453
+
+NO available at best ask:
+Token quantity: 800.49
+Dollar notional: 787.68216
+
+Total YES + NO cost:
+1.004
+Gross profit:
+-0.004
+Gross profit %:
+-0.3984 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.004
+Estimated net profit %:
+-0.3984 %
+
+Maximum executable paired quantity:
+572.65
+Capital required for that quantity:
+574.9406
+Gross profit at that quantity:
+-2.2906
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 72/100
+======================================================================
+Will Tim Walz win the 2028 US Presidential Election?
+
+YES token: 2638997461401140008448476093092229850740161649668999975101243681118238509713
+NO token: 31711509411930636383466083293019394636501894118049148509527295292186501260570
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 993802.27
+Dollar notional: 993.80227
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 73/100
+======================================================================
+Will Vivek Ramaswamy win the 2028 US Presidential Election?
+
+YES token: 48067717079255656974334181122173546721823870434119599450595298250019538972254
+NO token: 50325246165657443726245430907883748796540778371466135108478470877169556977248
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 70912.28
+Dollar notional: 70.91228
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 74/100
+======================================================================
+Will Greg Abbott win the 2028 US Presidential Election?
+
+YES token: 58585097107933138034126275600204468509993701936571284309823871593297754181479
+NO token: 104431860535489654020481219089291817898241901940037260095979653681449084465327
+
+YES
+Bid: 0.003
+Ask: 0.005
+
+NO
+Bid: 0.995
+Ask: 0.997
+
+YES available at best ask:
+Token quantity: 22107.64
+Dollar notional: 110.5382
+
+NO available at best ask:
+Token quantity: 3841.2
+Dollar notional: 3829.6764
+
+Total YES + NO cost:
+1.002
+Gross profit:
+-0.002
+Gross profit %:
+-0.1996 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.002
+Estimated net profit %:
+-0.1996 %
+
+Maximum executable paired quantity:
+3841.2
+Capital required for that quantity:
+3848.8824
+Gross profit at that quantity:
+-7.6824
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 75/100
+======================================================================
+Will Elon Musk win the 2028 US Presidential Election?
+
+YES token: 26641906520532802078452346454133721131611596169940893262820937050881742190686
+NO token: 59064132013843281708610372809406242099497812053529304284160897825180883604145
+
+YES
+Bid: 0.001
+Ask: 0.002
+
+NO
+Bid: 0.998
+Ask: 0.999
+
+YES available at best ask:
+Token quantity: 828491.52
+Dollar notional: 1656.98304
+
+NO available at best ask:
+Token quantity: 581502.73
+Dollar notional: 580921.22727
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+581502.73
+Capital required for that quantity:
+582084.23273
+Gross profit at that quantity:
+-581.50273
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 76/100
+======================================================================
+Will LeBron James win the 2028 US Presidential Election?
+
+YES token: 39223330966352513418907732239455948906399882924787587183466504819170775983376
+NO token: 50862799703982327636174441241062907649998751737045006653560124656563256528691
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 1456143.61
+Dollar notional: 1456.14361
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 77/100
+======================================================================
+Will Dwayne 'The Rock' Johnson win the 2028 US Presidential Election?
+
+YES token: 76252402837334795047528042167618984089231134882494719641438604550246396692717
+NO token: 82779978600617806806814031291287454099780828258739355925042203335968508676880
+
+YES
+Bid: 0.014
+Ask: 0.015
+
+NO
+Bid: 0.985
+Ask: 0.986
+
+YES available at best ask:
+Token quantity: 10581.37
+Dollar notional: 158.72055
+
+NO available at best ask:
+Token quantity: 1038.99
+Dollar notional: 1024.44414
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+1038.99
+Capital required for that quantity:
+1040.02899
+Gross profit at that quantity:
+-1.03899
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 78/100
+======================================================================
+Will Tucker Carlson win the 2028 US Presidential Election?
+
+YES token: 45015916581148592087728250896178171120552786117190685135618507471166113474733
+NO token: 5353194854864999214467212176625447374807704051407621946584152368216621932371
+
+YES
+Bid: 0.015
+Ask: 0.016
+
+NO
+Bid: 0.984
+Ask: 0.985
+
+YES available at best ask:
+Token quantity: 4931.31
+Dollar notional: 78.90096
+
+NO available at best ask:
+Token quantity: 6149.44
+Dollar notional: 6057.1984
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+4931.31
+Capital required for that quantity:
+4936.24131
+Gross profit at that quantity:
+-4.93131
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 79/100
+======================================================================
+Will Kim Kardashian win the 2028 US Presidential Election?
+
+YES token: 24863363384036117015867671383779186335047493791693657275104567365292353535818
+NO token: 44632793419668141561343859504077903947361590865219599333832862239708628173864
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 901688.01
+Dollar notional: 901.68801
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 80/100
+======================================================================
+Will Ivanka Trump win the 2028 US Presidential Election?
+
+YES token: 40932864651005132434669457369564353816786330205469778285035893634458129671101
+NO token: 56215025902031889702122383201324191240581604266667334383154318117703136383150
+
+YES
+Bid: 0.004
+Ask: 0.006
+
+NO
+Bid: 0.994
+Ask: 0.996
+
+YES available at best ask:
+Token quantity: 12970.63
+Dollar notional: 77.82378
+
+NO available at best ask:
+Token quantity: 499101.17
+Dollar notional: 497104.76532
+
+Total YES + NO cost:
+1.002
+Gross profit:
+-0.002
+Gross profit %:
+-0.1996 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.002
+Estimated net profit %:
+-0.1996 %
+
+Maximum executable paired quantity:
+12970.63
+Capital required for that quantity:
+12996.57126
+Gross profit at that quantity:
+-25.94126
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 81/100
+======================================================================
+Will Zohran Mamdani win the 2028 US Presidential Election?
+
+YES token: 94621929236241392639802280031607240386237812521756048982107414565863464212526
+NO token: 37476438367629084207797870684242875797541797912993121111059056752005821579571
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 861906.79
+Dollar notional: 861.90679
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 82/100
+======================================================================
+Will Michelle Obama win the 2028 US Presidential Election?
+
+YES token: 88521269813605705303364598280494261510300497312149869577251450871617962933121
+NO token: 1970496541508335019913900195809032484597886384784144327835472760880523550630
+
+YES
+Bid: 0.001
+Ask: 0.002
+
+NO
+Bid: 0.998
+Ask: 0.999
+
+YES available at best ask:
+Token quantity: 85272.12
+Dollar notional: 170.54424
+
+NO available at best ask:
+Token quantity: 938203.62
+Dollar notional: 937265.41638
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+85272.12
+Capital required for that quantity:
+85357.39212
+Gross profit at that quantity:
+-85.27212
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 83/100
+======================================================================
+Will Jamie Dimon win the 2028 US Presidential Election?
+
+YES token: 23692929455124171734375794579007643086071570310019729232490607671061438183936
+NO token: 30050897091642315762983745166096629857367320723415212749446858994810226049012
+
+YES
+Bid: 0.004
+Ask: 0.005
+
+NO
+Bid: 0.995
+Ask: 0.996
+
+YES available at best ask:
+Token quantity: 28595.91
+Dollar notional: 142.97955
+
+NO available at best ask:
+Token quantity: 71914.8
+Dollar notional: 71627.1408
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+28595.91
+Capital required for that quantity:
+28624.50591
+Gross profit at that quantity:
+-28.59591
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 84/100
+======================================================================
+Will Ro Khanna win the 2028 US Presidential Election?
+
+YES token: 45264462342307496826883801236629887275526404999716050689931105511159370296978
+NO token: 21034003091803474219272633665814818485285721473911024023600356649009960505229
+
+YES
+Bid: 0.009
+Ask: 0.011
+
+NO
+Bid: 0.989
+Ask: 0.991
+
+YES available at best ask:
+Token quantity: 9452.74
+Dollar notional: 103.98014
+
+NO available at best ask:
+Token quantity: 433.75
+Dollar notional: 429.84625
+
+Total YES + NO cost:
+1.002
+Gross profit:
+-0.002
+Gross profit %:
+-0.1996 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.002
+Estimated net profit %:
+-0.1996 %
+
+Maximum executable paired quantity:
+433.75
+Capital required for that quantity:
+434.6175
+Gross profit at that quantity:
+-0.8675
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 85/100
+======================================================================
+Will Thomas Massie win the 2028 US Presidential Election?
+
+YES token: 89071282556584199015490241074221756662667488270789034763702585258138302536112
+NO token: 18620821165547265880582330532076859546462061138941862890257010665389427790094
+
+YES
+Bid: 0.01
+Ask: 0.011
+
+NO
+Bid: 0.989
+Ask: 0.99
+
+YES available at best ask:
+Token quantity: 5223.9
+Dollar notional: 57.4629
+
+NO available at best ask:
+Token quantity: 13.11
+Dollar notional: 12.9789
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+13.11
+Capital required for that quantity:
+13.12311
+Gross profit at that quantity:
+-0.01311
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 86/100
+======================================================================
+Will Jon Ossoff win the 2028 US Presidential Election?
+
+YES token: 110102705199530588976777616718115948005824665233400132417374621750887344831757
+NO token: 98394838816403247684221016468696784125095120854407803889228262583112436699261
+
+YES
+Bid: 0.115
+Ask: 0.116
+
+NO
+Bid: 0.884
+Ask: 0.885
+
+YES available at best ask:
+Token quantity: 10850.53
+Dollar notional: 1258.66148
+
+NO available at best ask:
+Token quantity: 6566.18
+Dollar notional: 5811.0693
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+6566.18
+Capital required for that quantity:
+6572.74618
+Gross profit at that quantity:
+-6.56618
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 87/100
+======================================================================
+Will James Talarico win the 2028 US Presidential Election?
+
+YES token: 92909595831677784305960426832337551335132297174712723670055008600724483830120
+NO token: 26699870693127605012594021642110712356790266877635966965879322906179628109191
+
+YES
+Bid: 0.007
+Ask: 0.008
+
+NO
+Bid: 0.992
+Ask: 0.993
+
+YES available at best ask:
+Token quantity: 63579.8
+Dollar notional: 508.6384
+
+NO available at best ask:
+Token quantity: 489.81
+Dollar notional: 486.38133
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+489.81
+Capital required for that quantity:
+490.29981
+Gross profit at that quantity:
+-0.48981
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 88/100
+======================================================================
+Will Eric Trump win the 2028 US Presidential Election?
+
+YES token: 67028631656597977031363620447645908995417871899828777750494099295092202422178
+NO token: 92435534412344629891924787958876018882926476169555134960124357040149315497159
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 517380.83
+Dollar notional: 517.38083
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 89/100
+======================================================================
+Will Pete Hegseth win the 2028 US Presidential Election?
+
+YES token: 19127703543758281171764934244436807153695715307017908811054254126168591609122
+NO token: 55988424779505974483153818818889528404380009581145395352086864710928569072171
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 303260.08
+Dollar notional: 303.26008
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 90/100
+======================================================================
+Will Jalen Brunson win the 2028 US Presidential Election?
+
+YES token: 102551965884513878228913656538331960551103243325173310298991321638711054206295
+NO token: 25024096730843207041631203687678604497004516683590537482462688974562400646963
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 1582253.49
+Dollar notional: 1582.25349
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 91/100
+======================================================================
+Will Abigail Spanberger win the 2028 US Presidential Election?
+
+YES token: 26300126250638962432368126833553865841971269530697411678483716322368818562639
+NO token: 56204927946241537265164149462328189883020469254625443960117418316112304974602
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 30143.02
+Dollar notional: 30.14302
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 92/100
+======================================================================
+Will Hakeem Jeffries win the 2028 US Presidential Election?
+
+YES token: 27324378907862915329653747321506298712990175671811760510867365204472005456284
+NO token: 92680287057439870681299584384986809628158268708309296202308169106990008539739
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 1186182.13
+Dollar notional: 1186.18213
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 93/100
+======================================================================
+Will Elissa Slotkin win the 2028 US Presidential Election?
+
+YES token: 48603794625473459817558518297806850992009615470611080215039575427157653927669
+NO token: 52728319505612554616109154570709065358779880697251731838206843628919066236833
+
+YES
+Bid: 0.001
+Ask: 0.002
+
+NO
+Bid: 0.998
+Ask: 0.999
+
+YES available at best ask:
+Token quantity: 1374691.69
+Dollar notional: 2749.38338
+
+NO available at best ask:
+Token quantity: 100548.37
+Dollar notional: 100447.82163
+
+Total YES + NO cost:
+1.001
+Gross profit:
+-0.001
+Gross profit %:
+-0.0999 %
+
+Estimated fees:
+0.0
+Estimated net profit:
+-0.001
+Estimated net profit %:
+-0.0999 %
+
+Maximum executable paired quantity:
+100548.37
+Capital required for that quantity:
+100648.91837
+Gross profit at that quantity:
+-100.54837
+
+No YES + NO arbitrage.
+
+======================================================================
+Market 94/100
+======================================================================
+Will Adam Schiff win the 2028 US Presidential Election?
+
+YES token: 41714979268040478071540687092470339003658632436860166518888808949878005742810
+NO token: 64861611938661374970167075583118094920857040813468137850797111348162445000117
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 712782.33
+Dollar notional: 712.78233
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 95/100
+======================================================================
+Will Josh Stein win the 2028 US Presidential Election?
+
+YES token: 81914651028896069221591777664987513664858213907907450367169656205040430609207
+NO token: 65690056973061661242675346311703362078774633474188031871609738459615961194811
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 741326.45
+Dollar notional: 741.32645
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 96/100
+======================================================================
+Will Alex Padilla win the 2028 US Presidential Election?
+
+YES token: 111275251472058072508619811663710362197823477418115657686883100870313266336765
+NO token: 17525279555198427422522944312175513306451262897003545478403196837987378558377
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 951306.98
+Dollar notional: 951.30698
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 97/100
+======================================================================
+Will Candace Owens win the 2028 US Presidential Election?
+
+YES token: 30592713517693064640872287798282181889924970160995509574203628557763502328846
+NO token: 63747459676140983983119370335862836972776944721638042677139477092813941329379
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 513255.64
+Dollar notional: 513.25564
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 98/100
+======================================================================
+Will Tim Scott win the 2028 US Presidential Election?
+
+YES token: 24908228760416922213612434617001183346078469158297998009944252494961344688838
+NO token: 11859092901364772208765529642173057538268245606218298881278208061029457183888
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 482679.95
+Dollar notional: 482.67995
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 99/100
+======================================================================
+Will Mike Johnson win the 2028 US Presidential Election?
+
+YES token: 12167445601241038494598627746141164571603283042691642667221433294800793091205
+NO token: 9840968653599928014975758860003361924335058077946108821235343614820040422707
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 566581.23
+Dollar notional: 566.58123
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+======================================================================
+Market 100/100
+======================================================================
+Will Doug Burgum win the 2028 US Presidential Election?
+
+YES token: 94314941650039047289265493612932677665453822154521043846008907983710285812703
+NO token: 95884527968430507361099486487437375025232177441474571920519522278338971837411
+
+YES
+Bid: None
+Ask: 0.001
+
+NO
+Bid: 0.999
+Ask: None
+
+YES available at best ask:
+Token quantity: 267740.45
+Dollar notional: 267.74045
+
+NO available at best ask:
+Token quantity: 0.0
+Dollar notional: 0.0
+
+Cannot calculate arbitrage: NO ask is unavailable.
+
+
+======================================================================
+ARBITRAGE SUMMARY
+======================================================================
+
+Potential opportunities found: 0
+
+No gross YES + NO arbitrage opportunities detected.
+
+Saved Phase-2 scan results to:
+arbitrage_scan_phase2.csv

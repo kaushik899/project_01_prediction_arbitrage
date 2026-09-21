@@ -1,0 +1,15 @@
+metric,value
+Total complete observations,78.0
+Unique markets,19.0
+Unique timestamps,10.0
+Average YES spread,0.0011282051282051281
+Average NO spread,0.0011282051282051292
+Average combined spread,0.0022564102564102575
+Average execution cost (bps),11.28205128205032
+Average gross edge (bps),-11.282051282049611
+Median gross edge (bps),-9.999999999998002
+Minimum gross edge (bps),-20.0
+Maximum gross edge (bps),-9.999999999998002
+Gross edge standard deviation (bps),3.36481965668528
+Positive-edge observations,0.0
+Gross arbitrage rate,0.0

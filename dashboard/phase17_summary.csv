@@ -1,0 +1,15 @@
+metric,value
+total_raw_observations,2898.0
+usable_observations,2896.0
+consecutive_transitions,2827.0
+unique_markets,69.0
+markets_with_multiple_observations,69.0
+positive_gross_observations,0.0
+maximum_gross_edge,-0.0009999999999998
+minimum_gross_edge,-0.01
+maximum_yes_move,0.0010000000000000009
+maximum_no_move,0.010000000000000009
+maximum_gross_edge_improvement,0.004
+maximum_gross_edge_deterioration,-0.006
+edge_improving_transitions,14.0
+edge_deteriorating_transitions,8.0

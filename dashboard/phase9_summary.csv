@@ -1,0 +1,2 @@
+total_observations,complete_observations,incomplete_observations,unique_markets,markets_analyzed,average_combined_ask,minimum_combined_ask,maximum_combined_ask,average_gross_edge,minimum_gross_edge,maximum_gross_edge,gross_edge_std,positive_edge_observations,gross_arbitrage_rate,markets_with_positive_edge
+110,5,105,100,5,1.0012,1.001,1.002,-0.00119999999999984,-0.002,-0.0009999999999998,0.0004472135955000474,0,0.0,0

@@ -1,0 +1,2 @@
+total_observations,complete_observations,incomplete_observations,unique_markets,markets_with_complete_data,unique_timestamps,average_gross_edge,median_gross_edge,minimum_gross_edge,maximum_gross_edge,gross_edge_std,positive_edge_observations,zero_edge_observations,negative_edge_observations,positive_edge_rate_pct,gross_arbitrage_rate_pct
+135,30,105,100,5,8,-0.00119999999999984,-0.0009999999999998,-0.002,-0.0009999999999998,0.00040683810217256747,0,0,30,0.0,0.0

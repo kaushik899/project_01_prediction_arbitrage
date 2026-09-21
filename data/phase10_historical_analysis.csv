@@ -1,0 +1,6 @@
+question,observations,average_combined_ask,median_combined_ask,minimum_combined_ask,maximum_combined_ask,average_gross_edge,minimum_gross_edge,maximum_gross_edge,positive_edge_observations,gross_arbitrage_rate,research_rank
+Will Gavin Newsom win the 2028 Democratic presidential nomination?,6,1.001,1.001,1.001,1.001,-0.0009999999999998,-0.0009999999999998,-0.0009999999999998,0,0.0,1
+Will Josh Shapiro win the 2028 Democratic presidential nomination?,6,1.001,1.001,1.001,1.001,-0.0009999999999998,-0.0009999999999998,-0.0009999999999998,0,0.0,2
+Will Pete Buttigieg win the 2028 Democratic presidential nomination?,6,1.001,1.001,1.001,1.001,-0.0009999999999998,-0.0009999999999998,-0.0009999999999998,0,0.0,3
+Xi Jinping out before 2027?,6,1.001,1.001,1.001,1.001,-0.0009999999999998,-0.0009999999999998,-0.0009999999999998,0,0.0,4
+Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?,6,1.002,1.002,1.002,1.002,-0.002,-0.002,-0.002,0,0.0,5

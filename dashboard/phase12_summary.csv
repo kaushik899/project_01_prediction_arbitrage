@@ -1,0 +1,15 @@
+metric,value
+Trade size,1000.0
+Complete observations,78.0
+Unique markets,19.0
+Unique timestamps,10.0
+Gross profitable observations,0.0
+Gross arbitrage rate,0.0
+Average gross edge (bps),-11.28205128204962
+Average theoretical entry cost,1.0011282051282053
+Average YES spread,0.0011282051282051181
+Average NO spread,0.0011282051282051286
+Zero-slippage executable observations,0.0
+Zero-slippage executable rate,0.0
+Maximum gross profit,-0.9999999999998
+Maximum zero-slippage net profit,-0.9999999999998899
